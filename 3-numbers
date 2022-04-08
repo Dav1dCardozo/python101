@@ -1,47 +1,6 @@
 
 
-#print(3+3.0) 6.0
-#print(3/2)
-#print(3*10)
-#print(10 % 2)
-#print(9 % 2)
-#print(16 % 2)
 
-#num = 10
-
-#num += 1
-#print(num)
-
-#num -= 4
-#num *= 2
-#num /=3
-#print(num)
-
-#pemdas
-#print((10 +1 - 4) * 2 /3)
-
-
-name = "nelson"
-weight = 12 #
-age = 4.1
-#print("nelson is " +age)
-#print("nelson is " + str(age))
-
-
-#age = "2.5"
-#new_age = float(age) * 5
-#print(new_age)
-#print(float(age) * 2)
-
-#CALC METHODS
-#def calc_methods(a,b):
-    #print(a + b)
-    #print(a - b)
-    #print(a * b)
-    #print(a / b)
-    
-
-#calc_methods(5, 6)
 
 def madlib(noun, present_verb, name):
 
