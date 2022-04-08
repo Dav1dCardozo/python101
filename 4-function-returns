@@ -1,0 +1,27 @@
+#def add(a,b):
+    #return(a + b)
+
+#def mult(a,b):
+    #return a * b 
+
+
+#try:
+    #guest_1_pancakes = int(input("How many pancakes?"))
+    #guest_2_pancakes = int(input("and for your guest?"))
+
+#except: 
+    #print("that's not a number")
+    #exit()
+
+#total = mult(add(guest_1_pancakes, guest_2_pancakes), 1.12)
+
+
+
+#print(total)
+
+
+try:
+    guest = int(input("How many guests will be attending?"))
+    guest = int(input("How many pancakes should we make?"))
+
+

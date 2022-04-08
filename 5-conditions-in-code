@@ -1,0 +1,91 @@
+
+
+# age = int(input("what is your age"))
+# if age < 21:
+#     print("you cannot come in")
+# else:
+#     print("come on in")
+
+# choice = input("""
+# choose an option:
+# A) say hello
+# B) do a dance
+# c) do nothing
+# """)
+
+# if choice == "A":
+#     print("HA!")
+# elif choice == "B":
+#     print("naenae")
+# elif choice == "C":
+#     print("...")
+# else:
+#     print("that is not an option")
+
+# num = int(input("pick a number"))
+
+# if num > 5:
+#     print("ok, bigger than 5")
+
+# elif num:
+#     print("getting bigger")
+
+# elif num > 9000:
+#     print("its over 9000")
+
+
+
+
+
+# weekday = (input("Day of the week"))
+
+
+# if weekday == "monday" or "tuesday" or "wednesday" or "thursday" or "friday":
+#     print("go to work")
+
+# elif  weekday == "saturday" or "sunday": 
+#     print("sleep in")
+
+# password = str(input("Password:"))
+
+# if password == "Dcar182":
+#         print("Welcome!")
+
+# weekday2 = int(input("What day of the week is it?"))
+
+# if weekday2 == 1:
+#     print("Monday")
+# elif weekday2 == 2:
+#     print("Tuesday")
+# elif weekday2 == 3:
+#     print("Wednesday")
+# elif weekday2 == 4:
+#     print("Thursday")
+# elif weekday2 == 5:
+#     print("Friday")
+# elif weekday2 == 6:
+#     print("Saturday")
+# elif weekday2 == 7:
+#     print("Sunday")
+
+#MADLIB HOMEWORK
+# def madlib(noun, present_verb, name):
+
+#     print(name + " is " + present_verb + " to the " + noun)
+
+# madlib("store", "walking", "Isabella")
+
+
+
+
+
+
+
+#TIP CALCULATOR 
+#def percentage_plus(bill_total, tip, tip_total):
+#     print("The bill total will be: " + bill_total )
+#     print("What tip percentage would you like to tip: " + tip)
+#     print("Total bill is: " + tip_total)
+
+# percentage_plus("21.37", "20", "25.64")
+
